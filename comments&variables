@@ -1,0 +1,25 @@
+// this is a single line comment
+
+
+/*
+this is a
+ multi line
+comment
+*/
+
+
+/************ variables *************/
+
+let x;
+x = 10;
+
+let x = 10;
+
+let message = 'hello';
+message = 'welcome';
+
+let x,y;
+x=10;
+y=20;
+
+let x=10, y=20;
